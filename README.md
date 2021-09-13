@@ -30,7 +30,12 @@ Utilizarei o Agendador de Tarefas, que de acordo com o(s) horário(s) estabeleci
 * Na tela que sera aberta, clique em "Biblioteca do Agendador" e depois em "Criar Tarefa...".
 * Na tela seguinte estará na aba "Geral", preencha o campo nome com valor pertinente.
 * Clique na aba "Disparadores" e em "Novo".
-* Sera aberta uma terceira janela onde pode definir a frequência das notificações.
+* Sera aberta uma terceira janela onde pode definir a frequência das notificações.   
+* No meu caso, tenho dois agendamentos: um iniciando as 07:30 e outro as 08:00, ambos configurados para o modo Semanal a cada 1 semana, sendo segunda, terça, quarta, quinta e sexta, repetindo a tarefa a cada 1 hora. Desta forma, enquanto meu computador de trabalho estiver ligado, chamara o arquivo especificado a seguir.
+* Ao termino da configuração do disparador, clique em ok e então na aba Ações e depois em Novo.
+* Utilizei a opção Iniciar um programa e em Programa/script, indiquei o arquivo html que uso.
+* Feito isso, clique em Ok. Poderá ver opções adicionais nas demais abas, porem os ajustes citados aqui já são suficientes, podendo clicar em Ok uma ultima vez.
+* Feche o agendador e aguarde a execução nos horários definidos.
 
 
 ## Linux
